@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+pandas==2.0.3
+pandas==1.5.3
+PyYAML==6.0.1
+PyYAML==6.0
+PyYAML==6.0.1
+Requests==2.31.0
+SQLAlchemy==1.4.39
