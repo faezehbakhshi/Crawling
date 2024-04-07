@@ -1,0 +1,19 @@
+table_columns:
+  - استان
+  - شهرستان
+  - کد واحد
+  - نام واحد
+  - تلفن
+  - موبایل
+
+column_names:
+  - province
+  - city
+  - code
+  - name
+  - phone
+  - mobile
+
+database_uri: "postgresql+psycopg2://username:password@localhost:5432/database_name"
+table_name: "manzelan_agents"
+schema: "crawl"
